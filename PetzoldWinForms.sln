@@ -1,0 +1,44 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+# SharpDevelop 5.1
+VisualStudioVersion = 12.0.20827.3
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ComboBoxBind", "ComboBoxBind\ComboBoxBind.csproj", "{CD2006AC-D22E-4BE7-B8B2-FE1BA9BBE39A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KnownColorSample", "KnownColorSample\KnownColorSample.csproj", "{D7515DD9-708C-49B9-A823-A8AE5B669FE7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KnownColorSample2", "KnownColorSample2\KnownColorSample2.csproj", "{92172234-1EFC-47F8-83C6-29928C1D73D2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KnownColorSample3", "KnownColorSample3\KnownColorSample3.csproj", "{6E01CA13-724A-4D00-80EB-259CD15C130D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KnownColorSample4", "KnownColorSample4\KnownColorSample4.csproj", "{E4DAE4B6-DD87-4F6B-A280-02E8B08CF519}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CD2006AC-D22E-4BE7-B8B2-FE1BA9BBE39A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CD2006AC-D22E-4BE7-B8B2-FE1BA9BBE39A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CD2006AC-D22E-4BE7-B8B2-FE1BA9BBE39A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CD2006AC-D22E-4BE7-B8B2-FE1BA9BBE39A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D7515DD9-708C-49B9-A823-A8AE5B669FE7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D7515DD9-708C-49B9-A823-A8AE5B669FE7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D7515DD9-708C-49B9-A823-A8AE5B669FE7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D7515DD9-708C-49B9-A823-A8AE5B669FE7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{92172234-1EFC-47F8-83C6-29928C1D73D2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{92172234-1EFC-47F8-83C6-29928C1D73D2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{92172234-1EFC-47F8-83C6-29928C1D73D2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{92172234-1EFC-47F8-83C6-29928C1D73D2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6E01CA13-724A-4D00-80EB-259CD15C130D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6E01CA13-724A-4D00-80EB-259CD15C130D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6E01CA13-724A-4D00-80EB-259CD15C130D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6E01CA13-724A-4D00-80EB-259CD15C130D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E4DAE4B6-DD87-4F6B-A280-02E8B08CF519}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E4DAE4B6-DD87-4F6B-A280-02E8B08CF519}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E4DAE4B6-DD87-4F6B-A280-02E8B08CF519}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E4DAE4B6-DD87-4F6B-A280-02E8B08CF519}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
